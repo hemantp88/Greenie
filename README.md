@@ -91,15 +91,20 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 
 This project is licensed under the [MIT License](LICENSE).
 # Register Page
-![Alt text](./images/image.png)
+<!-- ![Alt text](./images/image.png) -->
+<img src ="./images/image.png" > 
 
 # Login Page
-![Alt text](./images/image1.png)
+<!-- ![Alt text](./images/image1.png) -->
+<img src ="./images/image1.png" > 
 # Backend 
 # 1
-![Alt text](./images/image2.png)
+<!-- ![Alt text](./images/image2.png) -->
+<img src ="./images/image2.png" > 
 # 2
-![Alt text](./images/image3.png)
+<!-- ![Alt text](./images/image3.png) -->
+<img src ="./images/image3.png" > 
 # 3
-![Alt text](./images/image4.png)
+<!-- ![Alt text](./images/image4.png) -->
 <!-- ![Alt text](image5.png) -->
+<img src ="./images/image4.png" > 
